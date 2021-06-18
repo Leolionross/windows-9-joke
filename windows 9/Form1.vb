@@ -21,7 +21,7 @@
         ProgressBar1.Value = 100
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Button2_Click(sender As Object, e As EventArgs) 
         Close()
     End Sub
 End Class

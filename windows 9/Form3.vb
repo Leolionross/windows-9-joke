@@ -11,11 +11,12 @@
         If ProgressBar1.Value = 100 Then
             Threading.Thread.Sleep(1000)
             Cursor = Cursors.Default
+
             Timer1.Enabled = False
         End If
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Button2_Click(sender As Object, e As EventArgs)
         Close()
     End Sub
 End Class
