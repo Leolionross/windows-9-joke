@@ -1,0 +1,42 @@
+C:\Users\leoli\source\repos\windows 9\windows 9\bin\Debug\net5.0-windows\windows 9.exe
+C:\Users\leoli\source\repos\windows 9\windows 9\bin\Debug\net5.0-windows\windows 9.deps.json
+C:\Users\leoli\source\repos\windows 9\windows 9\bin\Debug\net5.0-windows\windows 9.runtimeconfig.json
+C:\Users\leoli\source\repos\windows 9\windows 9\bin\Debug\net5.0-windows\windows 9.runtimeconfig.dev.json
+C:\Users\leoli\source\repos\windows 9\windows 9\bin\Debug\net5.0-windows\windows 9.dll
+C:\Users\leoli\source\repos\windows 9\windows 9\bin\Debug\net5.0-windows\ref\windows 9.dll
+C:\Users\leoli\source\repos\windows 9\windows 9\bin\Debug\net5.0-windows\windows 9.pdb
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.vbprojAssemblyReference.cache
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows_9.Form1.resources
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.vbproj.GenerateResource.cache
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.AssemblyInfoInputs.cache
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.AssemblyInfo.vb
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.vbproj.CoreCompileInputs.cache
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.dll
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\ref\windows 9.dll
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.pdb
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows 9.genruntimeconfig.cache
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows_9.Resources.resources
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows_9.Form1 - Copy.resources
+C:\Users\leoli\source\repos\windows 9\windows 9\obj\Debug\net5.0-windows\windows_9.Form2.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\bin\Debug\net5.0-windows\windows 9.exe
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\bin\Debug\net5.0-windows\windows 9.deps.json
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\bin\Debug\net5.0-windows\windows 9.runtimeconfig.json
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\bin\Debug\net5.0-windows\windows 9.runtimeconfig.dev.json
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\bin\Debug\net5.0-windows\windows 9.dll
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\bin\Debug\net5.0-windows\ref\windows 9.dll
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\bin\Debug\net5.0-windows\windows 9.pdb
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.vbprojAssemblyReference.cache
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Form1 - Copy.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Form1.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Form2.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Resources.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.vbproj.GenerateResource.cache
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.AssemblyInfoInputs.cache
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.AssemblyInfo.vb
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.vbproj.CoreCompileInputs.cache
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.dll
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\ref\windows 9.dll
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.pdb
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.genruntimeconfig.cache
