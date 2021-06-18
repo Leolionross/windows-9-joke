@@ -11,7 +11,7 @@
         If ProgressBar1.Value = 100 Then
             Threading.Thread.Sleep(1000)
             Cursor = Cursors.Default
-
+            Form4.Visible = True
             Timer1.Enabled = False
         End If
     End Sub
