@@ -2,6 +2,7 @@
     Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Form1.Visible = False
         Timer1.Enabled = True
+        Cursor = Cursors.AppStarting
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs)

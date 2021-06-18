@@ -2,6 +2,7 @@
     Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Form2.Visible = False
         Timer1.Enabled = True
+        Cursor = Cursors.AppStarting
     End Sub
 
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
