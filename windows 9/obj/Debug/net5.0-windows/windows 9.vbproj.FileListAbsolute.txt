@@ -40,3 +40,5 @@ C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\wi
 C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\ref\windows 9.dll
 C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.pdb
 C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows 9.genruntimeconfig.cache
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Dialog1.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Form3.resources

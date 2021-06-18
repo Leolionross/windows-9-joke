@@ -1,11 +1,7 @@
-﻿Public Class Form2
-    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Form1.Visible = False
+﻿Public Class Form3
+    Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Form2.Visible = False
         Timer1.Enabled = True
-    End Sub
-
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Close()
     End Sub
 
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
@@ -14,12 +10,12 @@
         End If
         If ProgressBar1.Value = 100 Then
             Threading.Thread.Sleep(1000)
-            Form3.Visible = True
+            Cursor = Cursors.Default
             Timer1.Enabled = False
         End If
     End Sub
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        ProgressBar1.Value = 100
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Close()
     End Sub
 End Class
