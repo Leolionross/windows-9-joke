@@ -43,3 +43,5 @@ C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\wi
 C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Dialog1.resources
 C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Form3.resources
 C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Form4.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Dialog2.resources
+C:\Users\leoli\Source\Repos\windows-9-joke\windows 9\obj\Debug\net5.0-windows\windows_9.Dialog3.resources
