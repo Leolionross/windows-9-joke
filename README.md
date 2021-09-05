@@ -13,3 +13,7 @@ So, just keep that in mind
  4. Extract the zip file
  5. Run 'windows 9.exe'
  6. When you get the (stupid fucking) windows defender smartscreen popup, press 'More Info' and then 'Run anyway'
+ 
+## **TO DO**
+ - [ ] Fix not working on any other resolution than 1440p
+ - [ ]  Finish this fucking thing
