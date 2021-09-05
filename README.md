@@ -12,6 +12,4 @@ So, just keep that in mind
  3. Under the 'Assets' dropdown menu, click the build zip file (e.g: dev-build-1.zip)
  4. Extract the zip file
  5. Run 'windows 9.exe'
- 6. When you get this propmpt:
- ![that stupid fucking smartscreen popup](https://user-images.githubusercontent.com/62186470/132110506-f0756d70-ce64-4db2-9d70-96f97ff83b95.png)
- click 'More Info' and then 'Run anyway'
+ 6. When you get the (stupid fucking) windows defender smartscreen popup, press 'More Info' and then 'Run anyway'
